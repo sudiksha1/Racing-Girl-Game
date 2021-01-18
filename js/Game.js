@@ -32,10 +32,10 @@ class Game {
     car4 = createSprite(700,200);
     cars = [car1,car2,car3,car4];
 
-    car1.addImage("runningGirl.png");
-    car2.addImage("runningGirl.png");
-    car3.addImage("runningGirl.png");
-    car4.addImage("runningGirl.png");
+    car1.addImage("runningGirl.jpg");
+    car2.addImage("runningGirl.jpg");
+    car3.addImage("runningGirl.jpg");
+    car4.addImage("runningGirl.jpg");
     
   }
 
